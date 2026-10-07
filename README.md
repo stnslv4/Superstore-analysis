@@ -2,7 +2,7 @@
 
 Інтерактивний дашборд у Power BI на основі датасету Superstore: динаміка продажів і прибутку, прибутковість підкатегорій та вплив знижок на маржу.
 
-![Dashboard preview](Dashboard.png)
+   ![Dashboard preview](images/Dashbord.png)
 
 ## Мета проєкту
 
